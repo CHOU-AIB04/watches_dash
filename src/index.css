@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.text-sh{
+  text-shadow: 10px 10px 5px rgba(102, 62, 1, 0.753);
+}
+.sh{
+  box-shadow: 0 0 10px rgba(102, 62, 1, 0.753);
+}
